@@ -1,0 +1,7 @@
+COIN_NAME="helio"
+COIN_PATH="/usr/local/bin/"
+COIN_DAEMON="heliod"
+COIN_CLI="helio-cli"
+COIN_FOLDER="/root/.helio"
+COIN_CONFIG="helio.conf"
+COIN_SERVICE="helio.service"
